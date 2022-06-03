@@ -15,6 +15,7 @@
   </a>
   <a href="https://stackoverflow.com/users/2807652/aaron-becker">
     <img src="https://img.shields.io/badge/StackOverflow-ef8236?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
 </div>
 
 ---
