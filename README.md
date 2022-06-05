@@ -20,6 +20,15 @@
 
 ---
 
+### Hi there :wave: I'm Aaron Becker
+* :us: I live in Atlanta, GA
+* :man_technologist: I'm currently working in [OMNY Health](https://omny.health/).
+* :pencil2: I write articles on my blog [meatspace.dev](https://meatspace.dev/blog/).
+* :robot: Most of the time I'm writing on C#.
+* :email: You can shoot me an email at <aaron@meatspace.dev>
+
+---
+
 **SKILLS**
 
 ![](https://img.shields.io/badge/Language-csharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
